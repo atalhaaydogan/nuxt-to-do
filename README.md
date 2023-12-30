@@ -1,5 +1,5 @@
-![To do Design](/assets/css/preview.png)
 # nuxt-to-do
+![To do Design](/assets/css/preview.png)
 
 ## Build Setup
 
